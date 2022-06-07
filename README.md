@@ -2,12 +2,6 @@
 ![Welcome to my GitHub :)!](https://github.com/cgcagnoni/cgcagnoni/blob/main/bannerbase.jpg)
 -->
 
-## GitHub Analytics
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cgcagnoni)](https://github.com/cgcagnoni/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgcagnoni)](https://github.com/cgcagnoni/github-readme-stats)
-
-
 ### Welcome to my GitHub 👋
 My name is Carol and I'm happy to see you here 😄
 
