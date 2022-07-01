@@ -5,7 +5,7 @@
 ### Welcome to my GitHub 👋
 My name is Carol and I'm happy to see you here 😄
 
-- 👩‍🎓 I'm currently learning Web Full Stack .NET development
+- 👩‍🎓 I'm currently learning Web Full Stack C# .NET development
 - 📚 I love studiyng and learning new things :)
 - 😄 Pronouns: She/Her/Ela/Dela
 - 📫 São Paulo, SP
