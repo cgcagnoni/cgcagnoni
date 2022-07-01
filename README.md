@@ -10,7 +10,7 @@ My name is Carol and I'm happy to see you here 😄
 - 😄 Pronouns: She/Her/Ela/Dela
 - 📫 São Paulo, SP, Brazil
 - 🐈 Curiosity: I'm a cat person 🐈💖
-- 🎮 Hobbies: Drawing, cooking and listening to good music ✏️🎧🍩
+- 🎮 Hobbies: Drawing, cooking and listening to good music ✏️🍩🎧
 
 <div align="center">
   <a href="https://github.com/cgcagnoni">
