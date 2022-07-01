@@ -8,8 +8,9 @@ My name is Carol and I'm happy to see you here 😄
 - 👩‍🎓 I'm currently learning Web Full Stack C# .NET development
 - 📚 I love studiyng and learning new things :)
 - 😄 Pronouns: She/Her/Ela/Dela
-- 📫 São Paulo, SP
+- 📫 São Paulo, SP, Brazil
 - 🐈 Curiosity: I'm a cat person 🐈💖
+- 🎮 Hobbies: Drawing, cooking and listening to good music ✏️🎧🍩
 
 <div align="center">
   <a href="https://github.com/cgcagnoni">
